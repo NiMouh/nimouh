@@ -10,8 +10,6 @@ def importante():
 
 # Plano curricular (1º Ciclo de Engenharia Informática)
 
----
-
 | Ano | Semestre | UC                                 | Classificação |
 |:---:|----------|:-----------------------------------|:-------------:|
 |  1  | 1º       | Programação 1                      |      15       |
@@ -48,8 +46,6 @@ def importante():
 
 # Outras formações
 
----
-
 A minha outra formação profissional é o Curso Técnico de Gestão e Manutenção de Redes (R79). Esse curso permitiu-me
 adquirir conhecimentos técnicos e teóricos sobre a instalação, configuração e manutenção de redes de computadores,
 incluindo protocolos de comunicação, segurança de redes, gestão das mesmas e soluções de armazenamento de dados. Além
@@ -58,8 +54,6 @@ para garantir a disponibilidade e desempenho das redes. Com esse conhecimento, p
 manutenção de redes, gerente de projetos de redes, entre outras funções relacionadas à área.
 
 # Estágio profissional
-
----
 
 Durante o meu percurso profissional exerci os seguintes estágios:
 
