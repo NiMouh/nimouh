@@ -31,7 +31,7 @@ def importante():
 |  2  | 2º       | Programação Web                    |      18       |
 |  2  | 2º       | Interação Humana com Computadores  |      13       |
 |  2  | 2º       | Lógica Computacional               |      18       |
-|  2  | 2º       | Algoritmos e Estrutura de Dados    |      15       |
+|  2  | 2º       | Algoritmos e Estrutura de Dados    |      16       |
 |  3  | 1º       | Engenharia de Software             |      17       |
 |  3  | 1º       | Teoria da Computação               |      12       |
 |  3  | 1º       | Inteligência Artificial            |      10       |
