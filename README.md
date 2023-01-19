@@ -32,9 +32,9 @@ def importante():
 |  2  | 2º       | Interação Humana com Computadores  |      13       |
 |  2  | 2º       | Lógica Computacional               |      18       |
 |  2  | 2º       | Algoritmos e Estrutura de Dados    |      15       |
-|  3  | 1º       | Engenharia de Software             |      --       |
-|  3  | 1º       | Teoria da Computação               |      --       |
-|  3  | 1º       | Inteligência Artificial            |      --       |
+|  3  | 1º       | Engenharia de Software             |      17       |
+|  3  | 1º       | Teoria da Computação               |      12       |
+|  3  | 1º       | Inteligência Artificial            |      10       |
 |  3  | 1º       | Programação de Dispositivos Móveis |      15       |
 |  3  | 1º       | Computação Gráfica                 |      18       |
 |  3  | 2º       | Segurança Informática              |      --       |
