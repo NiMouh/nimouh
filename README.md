@@ -32,7 +32,7 @@ def importante():
 |  2  | 2º       | Interação Humana com Computadores  |      13       |
 |  2  | 2º       | Lógica Computacional               |      18       |
 |  2  | 2º       | Algoritmos e Estrutura de Dados    |      16       |
-|  3  | 1º       | Engenharia de Software             |      17       |
+|  3  | 1º       | Engenharia de Software             |      15       |
 |  3  | 1º       | Teoria da Computação               |      12       |
 |  3  | 1º       | Inteligência Artificial            |      10       |
 |  3  | 1º       | Programação de Dispositivos Móveis |      15       |
@@ -40,9 +40,9 @@ def importante():
 |  3  | 2º       | Segurança Informática              |      --       |
 |  3  | 2º       | Empreendedorismo Tecnológico       |      --       |
 |  3  | 2º       | Sistemas Distribuídos              |      --       |
-|  3  | 2º       | Projeto	3                          |      --       |
+|  3  | 2º       | Projeto                            |      --       |
 |  3  | 2º       | Administração de Sistemas em Rede  |      --       |
-| --  | ---      | Média final:                       |     15.85     |
+| --  | ---      | Média final:                       |     15.44     |
 
 # Outras formações
 
