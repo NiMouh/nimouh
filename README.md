@@ -34,7 +34,7 @@ def importante():
 |  2  | 2º       | Algoritmos e Estrutura de Dados    |      16       |
 |  3  | 1º       | Engenharia de Software             |      15       |
 |  3  | 1º       | Teoria da Computação               |      12       |
-|  3  | 1º       | Inteligência Artificial            |      10       |
+|  3  | 1º       | Inteligência Artificial            |      11       |
 |  3  | 1º       | Programação de Dispositivos Móveis |      15       |
 |  3  | 1º       | Computação Gráfica                 |      18       |
 |  3  | 2º       | Segurança Informática              |      --       |
@@ -42,7 +42,7 @@ def importante():
 |  3  | 2º       | Sistemas Distribuídos              |      --       |
 |  3  | 2º       | Projeto                            |      --       |
 |  3  | 2º       | Administração de Sistemas em Rede  |      --       |
-| --  | ---      | Média final:                       |     15.44     |
+| --  | ---      | Média final:                       |     15.48     |
 
 # Outras formações
 
