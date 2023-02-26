@@ -23,11 +23,11 @@ def importante():
 |  1  | 2º       | Matemática Discreta                |      13       |
 |  1  | 2º       | Cálculo 2                          |      15       |
 |  2  | 1º       | Base de Dados                      |      15       |
-|  2  | 1º       | Programação Oritentada a Objetos   |      17       |
+|  2  | 1º       | Programação Orientada a Objetos    |      17       |
 |  2  | 1º       | Multimédia                         |      15       |
 |  2  | 1º       | Probabilidade e Estatística        |      14       |
 |  2  | 1º       | Física Informática                 |      20       |
-|  2  | 2º       | Sistemas Operativos                |      15       |
+|  2  | 2º       | Sistemas Operativos                |      16       |
 |  2  | 2º       | Programação Web                    |      18       |
 |  2  | 2º       | Interação Humana com Computadores  |      13       |
 |  2  | 2º       | Lógica Computacional               |      18       |
@@ -42,7 +42,7 @@ def importante():
 |  3  | 2º       | Sistemas Distribuídos              |      --       |
 |  3  | 2º       | Projeto                            |      --       |
 |  3  | 2º       | Administração de Sistemas em Rede  |      --       |
-| --  | ---      | Média final:                       |     15.48     |
+| --  | ---      | Média final:                       |     15,52     |
 
 # Outras formações
 
@@ -55,7 +55,7 @@ manutenção de redes, gerente de projetos de redes, entre outras funções rela
 
 # Estágio profissional
 
-Durante o meu percurso profissional exerci os seguintes estágios:
+Durante o meu percurso profissional, exerci os seguintes estágios:
 
 - Celeuma, onde atuei como desenvolvedor ‘web’ (27/03/2019). Lá, tive a oportunidade de trabalhar em projetos de
   desenvolvimento de aplicações ‘web’, utilizando as últimas tecnologias e ferramentas do mercado. Aprendi sobre
