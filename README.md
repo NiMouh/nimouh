@@ -37,11 +37,11 @@ def importante():
 |  3  | 1º       | Inteligência Artificial            |      11       |
 |  3  | 1º       | Programação de Dispositivos Móveis |      15       |
 |  3  | 1º       | Computação Gráfica                 |      18       |
-|  3  | 2º       | Segurança Informática              |      --       |
-|  3  | 2º       | Empreendedorismo Tecnológico       |      --       |
-|  3  | 2º       | Sistemas Distribuídos              |      --       |
+|  3  | 2º       | Segurança Informática              |      15       |
+|  3  | 2º       | Empreendedorismo Tecnológico       |      14       |
+|  3  | 2º       | Sistemas Distribuídos              |      15       |
 |  3  | 2º       | Projeto                            |      --       |
-|  3  | 2º       | Administração de Sistemas em Rede  |      --       |
+|  3  | 2º       | Administração de Sistemas em Rede  |      19       |
 | --  | ---      | Média final:                       |     15,52     |
 
 # Outras formações
