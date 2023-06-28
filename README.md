@@ -40,9 +40,9 @@ def importante():
 |  3  | 2º       | Segurança Informática              |      15       |
 |  3  | 2º       | Empreendedorismo Tecnológico       |      14       |
 |  3  | 2º       | Sistemas Distribuídos              |      15       |
-|  3  | 2º       | Projeto                            |      --       |
+|  3  | 2º       | Projeto                            |      18       |
 |  3  | 2º       | Administração de Sistemas em Rede  |      19       |
-| --  | ---      | Média final:                       |     15,56     |
+| --  | ---      | Média final:                       |     15,63     |
 
 # Outras formações
 
