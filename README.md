@@ -42,7 +42,7 @@ def importante():
 |  3  | 2º       | Sistemas Distribuídos              |      15       |
 |  3  | 2º       | Projeto                            |      18       |
 |  3  | 2º       | Administração de Sistemas em Rede  |      19       |
-| --  | ---      | Média final:                       |     15,63     |
+| --  | ---      | Média final:                       |     16        |
 
 # Outras formações
 
@@ -70,3 +70,5 @@ Durante o meu percurso profissional, exerci os seguintes estágios:
   importantes para garantir a disponibilidade e desempenho das mesmas. Além disso, tive a oportunidade de trabalhar com
   uma equipa de profissionais experientes e aprender com eles, desenvolvendo as minhas habilidades de liderança e gestão
   de projetos.
+
+- Celfinet,
