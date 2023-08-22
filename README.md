@@ -71,4 +71,5 @@ Durante o meu percurso profissional, exerci os seguintes estágios:
   uma equipa de profissionais experientes e aprender com eles, desenvolvendo as minhas habilidades de liderança e gestão
   de projetos.
 
-- Celfinet,
+- Celfinet, onde atuei na parte das Operações 24x7 Front-Office (10/07/2023). O meu trabalho era garantir a disponibilidade e o desempenho dos serviços de telecomunicações oferecidos pelas empresas de telecomunicações, através de monitorização, avaliação e resolução de incidentes para oferecer uma resposta rápida e
+diminuir o impacto causado. Tive a oportunidade de obter formações na área das telecomunicações, trabalhar em equipa e desenvolver atividades que melhoraram as minhas soft-skills.
