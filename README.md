@@ -1,4 +1,4 @@
-# Sobre mim 
+# Formação Académica
 
 ## Plano curricular (1º Ciclo de Engenharia Informática)
 
@@ -36,7 +36,7 @@
 |  3  | 2º       | Administração de Sistemas em Rede  |      19       |
 | --  | ---      | Média final:                       |     16        |
 
-# Plano Curricular (2º Ciclo de Ciberseguraça)
+## Plano Curricular (2º Ciclo de Ciberseguraça)
 
 |  Ano  | Semestre | UC                                        | Classificação |
 | :---: | -------- | :---------------------------------------- | :-----------: |
@@ -60,17 +60,17 @@ manutenção de redes, gerente de projetos de redes, entre outras funções rela
 
 Durante o meu percurso profissional, exerci os seguintes cargos:
 
-- Celeuma, onde atuei como desenvolvedor ‘web’ (27/03/2019). Lá, tive a oportunidade de trabalhar em projetos de
+  - **Celeuma**, onde atuei como desenvolvedor ‘web’ (27/03/2019). Lá, tive a oportunidade de trabalhar em projetos de
   desenvolvimento de aplicações ‘web’, utilizando as últimas tecnologias e ferramentas do mercado. Aprendi sobre
   programação orientada a objetos, ‘frameworks’, desenvolvimento ágil e outras técnicas importantes para o
   desenvolvimento de ‘software’. Além disso, tive a oportunidade de trabalhar em equipa e desenvolver as minhas
   habilidades de comunicação e colaboração.
-
-- Softinsa, empresa associada a IBM, onde atuei como administrador de redes (03/03/2020). Lá, tive a oportunidade de
+  
+  - **Softinsa**, empresa associada a IBM, onde atuei como administrador de redes (03/03/2020). Lá, tive a oportunidade de
   trabalhar com equipamentos de rede de alta desempenho, incluindo ‘routers’, ‘switches’, ‘firewall’ e outros
   dispositivos. Aprendi sobre configuração de redes, gestão de redes, soluções de segurança de rede e outros aspetos
   importantes para garantir a disponibilidade e desempenho das mesmas. Além disso, tive a oportunidade de trabalhar com
   uma equipa de profissionais experientes e aprender com eles, desenvolvendo as minhas habilidades de liderança e gestão
   de projetos.
-
-- Celfinet, onde atuei na parte das Operações 24x7 Front-Office (10/07/2023). O meu trabalho era garantir a disponibilidade e o desempenho dos serviços de telecomunicações oferecidos pelas empresas de telecomunicações, através de monitorização, avaliação e resolução de incidentes para oferecer uma resposta rápida e diminuir o impacto causado. Tive a oportunidade de obter formações na área das telecomunicações, trabalhar em equipa e desenvolver atividades que melhoraram as minhas soft-skills.
+  
+  - **Celfinet**, onde atuei na parte das Operações 24x7 Front-Office (10/07/2023). O meu trabalho era garantir a disponibilidade e o desempenho dos serviços de telecomunicações oferecidos pelas empresas de telecomunicações, através de monitorização, avaliação e resolução de incidentes para oferecer uma resposta rápida e diminuir o impacto causado. Tive a oportunidade de obter formações na área das telecomunicações, trabalhar em equipa e desenvolver atividades que melhoraram as minhas soft-skills.
