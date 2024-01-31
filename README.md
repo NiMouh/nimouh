@@ -43,8 +43,8 @@
 |   1   | 1º       | Análise e Exploração de Vulnerabilidades  |      14       |
 |   1   | 1º       | Análise Forense de Sistemas de Informação |      16       |
 |   1   | 1º       | Aprendizagem Aplicada  à Segurança        |      15       |
-|   1   | 1º       | Criptografia Aplicada                     |      14       |
-|   1   | 1º       | Software Robusto                          |      --       |
+|   1   | 1º       | Criptografia Aplicada                     |      15       |
+|   1   | 1º       | Software Robusto                          |      17       |
 |  --   | ---      | Média final:                              |      --       |
 
 ## Outras formações
