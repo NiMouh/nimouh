@@ -1,55 +1,10 @@
 # Formação Académica
-
-## Plano curricular (1º Ciclo de Engenharia Informática)
-
-| Ano | Semestre | UC                                 | Classificação |
-|:---:|----------|:-----------------------------------|:-------------:|
-|  1  | 1º       | Programação 1                      |      15       |
-|  1  | 1º       | Laboratórios de Programação        |      18       |
-|  1  | 1º       | Tecnologia de Computadores         |      18       |
-|  1  | 1º       | Álgebra Linear                     |      10       |
-|  1  | 1º       | Cálculo 1                          |      15       |
-|  1  | 2º       | Arquitetura de Computadores        |      16       |
-|  1  | 2º       | Redes de Computadores              |      17       |
-|  1  | 2º       | Programação Funcional              |      18       |
-|  1  | 2º       | Matemática Discreta                |      13       |
-|  1  | 2º       | Cálculo 2                          |      15       |
-|  2  | 1º       | Base de Dados                      |      15       |
-|  2  | 1º       | Programação Orientada a Objetos    |      17       |
-|  2  | 1º       | Multimédia                         |      15       |
-|  2  | 1º       | Probabilidade e Estatística        |      14       |
-|  2  | 1º       | Física Informática                 |      20       |
-|  2  | 2º       | Sistemas Operativos                |      16       |
-|  2  | 2º       | Programação Web                    |      18       |
-|  2  | 2º       | Interação Humana com Computadores  |      13       |
-|  2  | 2º       | Lógica Computacional               |      18       |
-|  2  | 2º       | Algoritmos e Estrutura de Dados    |      16       |
-|  3  | 1º       | Engenharia de Software             |      15       |
-|  3  | 1º       | Teoria da Computação               |      12       |
-|  3  | 1º       | Inteligência Artificial            |      11       |
-|  3  | 1º       | Programação de Dispositivos Móveis |      15       |
-|  3  | 1º       | Computação Gráfica                 |      18       |
-|  3  | 2º       | Segurança Informática              |      15       |
-|  3  | 2º       | Empreendedorismo Tecnológico       |      14       |
-|  3  | 2º       | Sistemas Distribuídos              |      15       |
-|  3  | 2º       | Projeto                            |      18       |
-|  3  | 2º       | Administração de Sistemas em Rede  |      19       |
-| --  | ---      | Média final:                       |     16        |
-
-## Plano Curricular (2º Ciclo de Ciberseguraça)
-
-|  Ano  | Semestre | UC                                        | Classificação |
-| :---: | -------- | :---------------------------------------- | :-----------: |
-|   1   | 1º       | Análise e Exploração de Vulnerabilidades  |      14       |
-|   1   | 1º       | Análise Forense de Sistemas de Informação |      16       |
-|   1   | 1º       | Aprendizagem Aplicada  à Segurança        |      15       |
-|   1   | 1º       | Criptografia Aplicada                     |      15       |
-|   1   | 1º       | Software Robusto                          |      17       |
-|  --   | ---      | Média final:                              |      --       |
+ - 1º Ciclo de Engenharia Informática : média 16
+ - 2º Ciclo de Ciberseguraça : média (atual) 15
 
 ## Outras formações
 
-A minha outra formação profissional é o Curso Técnico de Gestão e Manutenção de Redes (R79). Esse curso permitiu-me
+Fui também estudante no Curso Técnico de Gestão e Manutenção de Redes (R79). Esse curso permitiu-me
 adquirir conhecimentos técnicos e teóricos sobre a instalação, configuração e manutenção de redes de computadores,
 incluindo protocolos de comunicação, segurança de redes, gestão das mesmas e soluções de armazenamento de dados. Além
 disso, também aprendi sobre ferramentas de gestão e monitorização de redes, o que me permitiu desenvolver habilidades
