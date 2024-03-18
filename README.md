@@ -1,6 +1,9 @@
 # Formação Académica
- - 1º Ciclo de Engenharia Informática : média 16
- - 2º Ciclo de Ciberseguraça : média (atual) 15
+
+| Ciclo de Estudo | Curso | Média |
+| ----------------| ----- | ----- |
+| 1º | Engenharia Informática | 16 |
+| 2º | Cibersegurança | 15 (atual) |
 
 ## Outras formações
 
