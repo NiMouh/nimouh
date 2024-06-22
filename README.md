@@ -3,7 +3,7 @@
 | Ciclo de Estudo | Curso | Média |
 | :----------------:| :----- | :----- |
 | 1º | Engenharia Informática | 16 |
-| 2º | Cibersegurança | 15 (atual) |
+| 2º | Cibersegurança | 16 (atual) |
 
 ## Outras formações
 
